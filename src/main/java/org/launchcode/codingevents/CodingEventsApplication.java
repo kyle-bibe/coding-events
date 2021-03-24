@@ -10,4 +10,8 @@ public class CodingEventsApplication {
 		SpringApplication.run(CodingEventsApplication.class, args);
 	}
 
+	public void talk() {
+		return;
+	}
+
 }
